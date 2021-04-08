@@ -10,8 +10,8 @@ permalink:           pretty
 # About/contact
 author:
   name:              James Matyszczyk
-  url:               N/A
-  email:             N/A
+  url:               ''
+  email:             ''
 # Gems
 plugins:
   - jekyll-paginate
