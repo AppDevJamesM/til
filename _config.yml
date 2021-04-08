@@ -2,17 +2,16 @@
 title:               'Today I Learned'
 tagline:             'Notes to self about software development'
 description:         ''
-url:                 https://appdev-projects.github.io/
+url:                 https://AppDevJamesM.github.io/
 baseurl:             'til/'
 paginate:            5
 permalink:           pretty
 
 # About/contact
 author:
-  name:              Raghu Betina
-  url:               https://twitter.com/raghubetina
-  email:             raghu@firstdraft.com
-
+  name:              James Matyszczyk
+  url:               N/A
+  email:             N/A
 # Gems
 plugins:
   - jekyll-paginate
